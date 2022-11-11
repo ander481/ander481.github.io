@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e457254f.css",
+    "main.css": "/static/css/main.80b3b9c5.css",
     "main.js": "/static/js/main.fa721ce0.js",
     "static/media/gisat_logo.webp": "/static/media/gisat_logo.78dd068caf9a89affa59.webp",
     "index.html": "/index.html",
-    "main.e457254f.css.map": "/static/css/main.e457254f.css.map",
+    "main.80b3b9c5.css.map": "/static/css/main.80b3b9c5.css.map",
     "main.fa721ce0.js.map": "/static/js/main.fa721ce0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e457254f.css",
+    "static/css/main.80b3b9c5.css",
     "static/js/main.fa721ce0.js"
   ]
 }
